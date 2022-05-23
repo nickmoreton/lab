@@ -1,3 +1,6 @@
-# Python resuests and dataclasses experiments
+# Jupyter Lab is an experiment.
 
-This Jupyter Lab is an experiment.
+- requests
+- dataclasses
+- pydantic
+- more
