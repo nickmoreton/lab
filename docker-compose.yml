@@ -5,6 +5,7 @@ services:
     image: jupyter/base-notebook
     volumes:
      - ./notebooks/:/notebooks
+     - ./deps/:/deps
     ports:
       - "8888:8888"
     environment:
