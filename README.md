@@ -15,4 +15,4 @@ cd lab
 docker-compose up
 ```
 
-The lab will be available at `http://localhost:8888/lab?token=...`
+The lab will be available at `http://localhost:8888/lab?token=...` get the token from the console log.
